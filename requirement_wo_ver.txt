@@ -1,0 +1,19 @@
+cycler
+joblib
+kiwisolver
+matplotlib
+numpy
+opencv-python
+pyparsing
+python-dateutil
+scikit-learn
+scipy
+six
+sklearn
+wincertstore
+torch==1.7.1
+torchvision==0.8.2 
+torchaudio===0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
+git+git://github.com/jaidedai/easyocr.git
+keras-ocr
+boltiot
